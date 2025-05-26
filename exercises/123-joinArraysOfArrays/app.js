@@ -1,6 +1,5 @@
 function joinArrayOfArrays(arr) {
-  // your code here
-  
+  return arr.flat();
 }
 
 let output = joinArrayOfArrays([
